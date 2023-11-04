@@ -135,10 +135,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 20223 - March 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "I maintain a robust framework using next.js, simplifying code reviews and enhancing collaboration.es.",
+        "With diligent code standards and regular reviews, we ensure code quality and maintainability, making it easier to scale and improve our projects.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "As a freelancer, I provide versatile web development services, delivering quality projects tailored to your unique needs.",
       ],
     },
     {
@@ -148,8 +148,8 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - March 22",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developing and maintaining web applications using HTML, CSS, javascript and other related technologies.",
+        "I create responsive, user-friendly, and visually appealing web solutions that meet your specific goals and requirements",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
@@ -162,7 +162,7 @@ import {
       date: "oct 2023 - Present",
       points: [
         "In the Scrapy Foundation, I am responsible for maintaining the GUI interface using Python",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "In GUI development, I utilize Tkinter for creating user-friendly interfaces. Tkinter is a powerful Python library for building graphical user interfaces with ease and efficiency.",
         "This involves designing, updating, and ensuring the functionality of the graphical user interface to support the organization's projects and initiatives.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
